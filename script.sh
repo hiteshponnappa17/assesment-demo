@@ -1,1 +1,2 @@
-echo "Internal assesment"
+#!/bin/bash
+echo "Running shell script"
